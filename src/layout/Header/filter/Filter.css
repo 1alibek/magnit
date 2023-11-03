@@ -1,0 +1,11 @@
+.filter-search{
+width: 100%;
+background-color: #fff;
+display: flex;
+flex-direction: column;
+box-shadow: 0px 0px 8px #eae9e9;
+border-radius: 8px;
+
+max-height:  300px;
+overflow-y: scroll;
+}
